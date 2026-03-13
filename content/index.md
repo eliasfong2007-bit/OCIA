@@ -1,3 +1,6 @@
+---
+title: Welcome to OCIA
+---
 This is an interactive form of my notes based on the content in OCIA at the Newman Center. Here is a directory of the large concepts covered in the course:
 
 1. [[The Trinity]]
